@@ -1,8 +1,8 @@
 module.exports = {
   twitter: {
-    consumer_key: 'g9xpOwRQvn1Yy5c2cOip28V2B',
-    consumer_secret: 'hTP1CpviMHEJcdXpWUC8s44qHjOCAuqkpcZBKm3qtGb7Uo2GTi',
-    access_token_key: '1122906733-oiqpR1vUWWxY5EMNCUzL4Jmnlfnq72400sBcm7k',
-    access_token_secret: 'DK0Ql7QFlzFfqOhnEOgrZeQSXXMFGtLbKfQyUJdC2BVmG'
+    consumer_key: 'VfUSoN1LRaKR3459c9Lzdw',
+    consumer_secret: 'ehXOa4DAqIuRdflttrNKv6UzYHXD7BPalwGLjYIlUY',
+    access_token_key: '99974462-JxZTu78HU7y3aqsZn2GgjzFEO1uhjSs80rswYbbG2',
+    access_token_secret: 'nSMSPDFESuGEh1ZNSLkxSTX0rAXoMGpmHj8kZg2Vs0'
   }
 }
